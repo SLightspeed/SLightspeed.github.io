@@ -1,0 +1,40 @@
+h1.center {
+    margin: auto;
+    margin-left: 33%;
+    margin-right: 33%;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    color: blueviolet;
+    border-style:solid;
+	border-color:rgb(255, 0, 191);
+}
+
+h1.center2 {
+    margin: auto;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    color: rgb(255, 255, 255);
+    font-family:serif
+}
+
+a:link {
+    text-decoration: none;
+    color:black;
+}
+
+a:visited {
+    text-decoration: none;
+    color:chocolate;
+}
+
+a:hover {
+    text-decoration: underline;
+    color:blueviolet;
+}
+
+a:active {
+    text-decoration: underline;
+    color:white;
+}
